@@ -1,7 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Git Better",
+  "name": "Git Revive",
   "version": "1.0.0",
+  "default_locale": "en",
+  "description": "Bring GitHub back to life.",
+  "icons": {},
   "content_scripts": [
     {
       "matches": [
@@ -13,5 +16,6 @@
       ],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "author": "Henrikh Kantuni, Shahen Kosyan"
 }
