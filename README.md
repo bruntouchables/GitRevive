@@ -1,1 +1,1 @@
-# GitRevive<sup>β</sup>
+# GitBetter
