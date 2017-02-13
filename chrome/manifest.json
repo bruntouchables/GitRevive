@@ -2,9 +2,7 @@
   "manifest_version": 2,
   "name": "Git Revive",
   "version": "1.0.0",
-  "default_locale": "en",
   "description": "Bring GitHub back to life.",
-  "icons": {},
   "content_scripts": [
     {
       "matches": [
@@ -17,5 +15,6 @@
       "run_at": "document_start"
     }
   ],
+  "homepage_url": "https://github.com/bruntouchables/GitRevive",
   "author": "Henrikh Kantuni, Shahen Kosyan"
 }
