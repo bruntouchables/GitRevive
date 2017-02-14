@@ -15,7 +15,7 @@
         "*://*.github.com/*"
       ],
       "css": [
-        "revive.css"
+        "new.css"
       ],
       "js": [
         "content.js"

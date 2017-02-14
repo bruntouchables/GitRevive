@@ -8,7 +8,7 @@
 let observer = new MutationObserver((mutations) => {
   mutations.forEach((mutation) => {
     if (mutation.target.classList.contains('header')) {
-      mutation.target.classList.add('revive-header');
+      mutation.target.setAttribute('id', 'revive');
       observer.disconnect();
     }
   });
