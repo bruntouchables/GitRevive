@@ -1,0 +1,92 @@
+.revive-header.header {
+	background-color: #f5f5f5;
+	border-bottom: 1px solid #e5e5e5;
+	color: #333;
+}
+
+.revive-header.header .header-logo-invertocat {
+	color: #555;
+	height: 30px;
+	margin: 0 10px 0 -2px;
+	width: 30px;
+}
+
+.revive-header.header .octicon {
+	height: 30px;
+	transform-origin: 15px 15px;
+	width: 30px;
+}
+
+.revive-header.header .header-search {
+	font-size: 14px;
+	height: 28px;
+	line-height: 21px;
+}
+
+.revive-header.header .js-site-search-form {
+	font-size: 14px;
+	height: 28px;
+	line-height: 21px;
+}
+
+.revive-header.header .js-site-search-form > div {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.revive-header.header .js-site-search-form .form-control {
+	border: 1px solid #ddd;
+}
+
+.revive-header.header .js-site-search-form .header-search-scope {
+	border-color: #eee;
+	color: #767676;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.revive-header.header .js-site-search-form .header-search-input {
+	background-color: #fff;
+	border: none;
+}
+
+.revive-header.header .header-nav .header-nav-link {
+	color: #555;
+}
+
+.revive-header.header .header-nav.user-nav {
+	height: 30px;
+	width: 122px;
+}
+
+.revive-header.header .header-nav.user-nav .header-nav-item:nth-child(1) {
+	height: 30px;
+	width: 32px;
+}
+
+.revive-header.header .header-nav.user-nav .header-nav-item:nth-child(2) {
+	height: 30px;
+	width: 41px;
+}
+
+.revive-header.header .header-nav-item .mail-status {
+	border-color: #f3f3f3;
+}
+
+.revive-header.header .header-nav-item .octicon-bell {
+	display: inline-block;
+	float: none;
+	height: 16px;
+	margin-top: 0;
+	text-align: center;
+	transform-origin: 8px 8px;
+	width: 16px;
+}
+
+.revive-header.header .header-nav-item .octicon-plus {
+	display: inline-block;
+	height: 16px;
+	transform-origin: 8px 8px;
+	width: 16px;
+}
+

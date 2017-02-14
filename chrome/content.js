@@ -7,8 +7,8 @@
 
 let observer = new MutationObserver((mutations) => {
   mutations.forEach((mutation) => {
-    if (mutation.target.classList.contains('header-dark')) {
-      mutation.target.classList.remove('header-dark');
+    if (mutation.target.classList.contains('header')) {
+      mutation.target.classList.add('revive-header');
       observer.disconnect();
     }
   });
