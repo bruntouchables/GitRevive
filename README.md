@@ -9,7 +9,7 @@ On Feb 10, 2017 GitHub announced their new dark header. After a little searching
 
 ### Uniqueness
 Our extension is the **first** extension that brings GitHub’s old header back **without any flickering**.  
-We :heart: GitHub and would like it to be perfect again!
+We <3 GitHub and would like it to be perfect again!
 
 ### Authors
 
