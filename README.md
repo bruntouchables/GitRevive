@@ -1,7 +1,7 @@
 # Git Revive
 > Bring GitHub back to life.
 
-### How it works
+### Preview
 ![Git Revive](https://github.com/bruntouchables/GitRevive/blob/master/example.png)
 
 ### Motivation 
