@@ -4,6 +4,14 @@
 ### Preview
 ![Git Revive](https://github.com/bruntouchables/GitRevive/blob/master/example.png)
 
+### Browser support
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Google_Chrome_icon_%282011%29.svg" alt="Google Chrome" width="30">
+
+**Remark:** We are currently working on Safari and Firefox extensions.
+
+### Extensions
+- [Google Chrome](https://chrome.google.com/webstore/detail/git-revive/ofmmhicgoalbngodgmkblneinagjmcpp)
+
 ### Motivation 
 On Feb 10, 2017 GitHub announced their new dark header. After a little searching we found out that not only we, but the majority of GitHub users don’t like it. So we decided to get the old header back.
 
