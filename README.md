@@ -7,8 +7,6 @@
 ### Browser support
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Google_Chrome_icon_%282011%29.svg" alt="Google Chrome" width="30">
 
-**Remark:** We are currently working on Safari and Firefox extensions.
-
 ### Extensions
 - [Google Chrome](https://chrome.google.com/webstore/detail/git-revive/ofmmhicgoalbngodgmkblneinagjmcpp)
 
@@ -23,6 +21,8 @@ We <3 GitHub and would like it to be perfect again!
 
 - Henrikh Kantuni ([@kantuni](https://github.com/kantuni))
 - Shahen Kosyan ([@k0syan](https://github.com/k0syan))
+
+**Remark:** We are currently working on Safari and Firefox extensions.
 
 This software is not affiliated or endorsed by GitHub.  
 
