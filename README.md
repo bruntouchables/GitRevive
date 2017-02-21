@@ -22,8 +22,6 @@ We <3 GitHub and would like it to be perfect again!
 - Henrikh Kantuni ([@kantuni](https://github.com/kantuni))
 - Shahen Kosyan ([@k0syan](https://github.com/k0syan))
 
-**Remark:** We are currently working on Safari and Firefox extensions.
-
 This software is not affiliated or endorsed by GitHub.  
 
 Please feel free to open an issue or a pull request.  
