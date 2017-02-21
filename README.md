@@ -5,7 +5,7 @@
 ![Git Revive](https://github.com/bruntouchables/GitRevive/blob/master/example.png)
 
 ### Browser support
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Google_Chrome_icon_%282011%29.svg" alt="Google Chrome" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Google_Chrome_for_Android_Icon_2016.svg" alt="Google Chrome" width="30">
 
 ### Extensions
 - [Google Chrome](https://chrome.google.com/webstore/detail/git-revive/ofmmhicgoalbngodgmkblneinagjmcpp)
