@@ -20,5 +20,4 @@ We :heart: GitHub and would like it to be perfect again!
 - Shahen Kosyan ([@k0syan](https://github.com/k0syan))
 
 This software is not affiliated or endorsed by GitHub.  
-
 Please feel free to open an issue or a pull request.
