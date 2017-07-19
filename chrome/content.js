@@ -5,8 +5,8 @@
 
 'use strict';
 
-let observer = new MutationObserver((mutations) => {
-  mutations.forEach((mutation) => {
+let observer = new MutationObserver(mutations => {
+  mutations.forEach(mutation => {
     if (mutation.target.classList.contains('header')) {
       mutation.target.classList.add('revive');
       observer.disconnect();
