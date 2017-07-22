@@ -1,5 +1,5 @@
 # Git Revive
-> Bring GitHub's header back to life.
+> Bring GitHub's old header back to life.
 
 ### Preview
 ![Git Revive](https://github.com/bruntouchables/GitRevive/blob/master/example.png)
