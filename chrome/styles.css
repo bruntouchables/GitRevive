@@ -48,21 +48,21 @@
   color: #c8c8c8;
 }
 
-.revive.header .header-nav-link {
+.revive.header .header-navlink {
   color: #555;
 }
 
-.revive.header .header-nav-link:hover,
-.revive.header .header-nav-link.selected {
+.revive.header .header-navlink:hover,
+.revive.header .header-navlink.selected {
   color: #4078c0;
 }
 
-.revive.header .header-nav-link:hover .dropdown-caret,
-.revive.header .header-nav-link.selected .dropdown-caret {
+.revive.header .header-navlink:hover .dropdown-caret,
+.revive.header .header-navlink.selected .dropdown-caret {
   border-top-color: #4078c0;
 }
 
-.revive.header .header-nav-link .mail-status.unread {
+.revive.header .header-navlink .mail-status.unread {
   background-image: linear-gradient(#87aad6, #5888c7);
   border: 2px solid #f5f5f5;
 }
