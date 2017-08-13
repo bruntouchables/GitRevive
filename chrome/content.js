@@ -7,7 +7,11 @@
 
 let observer = new MutationObserver(mutations => {
   mutations.forEach(mutation => {
-    if (mutation.target.classList.contains('header')) {
+    let elementClassList = mutation.target.classList;
+    let isHeader = elementClassList.contains('header') && elementClassList.length === 1;
+    let isGist = elementClassList.contains('gist-header');
+    
+    if (isHeader || isGist) {
       mutation.target.classList.add('revive');
       observer.disconnect();
     }
